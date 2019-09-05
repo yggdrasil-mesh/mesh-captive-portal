@@ -36,11 +36,12 @@ h1 {
   margin-right: 0px;
   margin-left: 0px;
   font-family: "Montserrat", sans-serif;
-  color: black;
   font-size: 99px;
   line-height: 87px;
   font-weight: 800;
   text-transform: uppercase;
+
+color: white;
 }
 h2 {
   margin-right: 0px;
@@ -124,7 +125,7 @@ p {
   overflow-x: hidden;
   overflow-y: hidden;
   padding-bottom: 99px;
-  background-color: #5856d6;
+  background-color: #000;
 }
 .header.page {
   padding-bottom: 47px;
@@ -259,7 +260,7 @@ p {
 .main-subtitle {
   padding-bottom: 57px;
   font-family: Product Sans, sans-serif;
-  color: black;
+  color: white;
   font-size: 28px;
   line-height: 34px;
   font-style: normal;
@@ -278,12 +279,12 @@ p {
   border-bottom-color: black;
   color: black;
 }
-.link.black {
+.link.white {
   display: inline-block;
-  border-bottom-color: black;
-  color: black;
+  border-bottom-color: white;
+  color: white;
 }
-.link.black:hover {
+.link.white:hover {
   border-bottom-color: white;
   color: white;
 }
@@ -1025,7 +1026,7 @@ p {
   z-index: 2;
   width: 386px;
   padding-left: 56px;
-  background-image: url(http://uploads.webflow.com/5317d67d660658b254000454/534e23fb94be38d269000057_arrow-left-up.png);
+  background-image: url(../images/arrow-left-up.png);
   background-position: 0% 15%;
   background-size: 47px;
   background-repeat: no-repeat;
