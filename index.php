@@ -24,7 +24,6 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<!-- partial:index.partial.html -->
 <body>
     <div class="header" data-ix="show-nav">
         <div class="w-nav nav" data-collapse="medium" data-animation="over-right" data-duration="400" data-contain="1" data-doc-height="1" data-ix="nav-bar-load" data-easing="ease-out-quart" data-easing2="ease-out-quart">
@@ -47,7 +46,5 @@
     </div>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://daks2k3a4ib2z.cloudfront.net/5317d67d660658b254000454/js/webflow.js?2f83b8326cc4c8f7327b5dba30444a37"></script>
-<!-- partial -->
-  
 </body>
 </html>
